@@ -1,0 +1,12 @@
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Release\KonsoleNET4.exe.manifest
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Release\KonsoleNET4.application
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Release\KonsoleNET4.exe
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Release\KonsoleNET4.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\Konsole .NET Framework 4.csproj.AssemblyReference.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\Konsole.NET_Framework_4.Crash.resources
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\Konsole .NET Framework 4.csproj.GenerateResource.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\Konsole .NET Framework 4.csproj.CoreCompileInputs.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\KonsoleNET4.exe.manifest
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\KonsoleNET4.application
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\KonsoleNET4.exe
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Release\KonsoleNET4.pdb

@@ -1,0 +1,8 @@
+___________________________________
+|Command | Description            |
+|Help    | shows help             |
+|Dir     | Shows Directory Listing|
+|Update  | Opens Update Utility   |
+|Exit    | Exits Konsole          |
+|---------------------------------|
+the commmands are CASE SENSITIVE

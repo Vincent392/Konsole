@@ -1,0 +1,20 @@
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\bin\Debug\KonsoleNET4Updater.exe
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\bin\Debug\KonsoleNET4Updater.pdb
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.csproj.AssemblyReference.cache
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.Form1.resources
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.Properties.Resources.resources
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.csproj.GenerateResource.cache
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.csproj.CoreCompileInputs.cache
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.exe
+E:\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.pdb
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4Updater.exe
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4Updater.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4Updater.exe
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4Updater.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.csproj.AssemblyReference.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.Form1.resources
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.Properties.Resources.resources
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.csproj.GenerateResource.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.csproj.CoreCompileInputs.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.exe
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\KonsoleNET4Updater\obj\Debug\KonsoleNET4Updater.pdb

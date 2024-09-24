@@ -1,0 +1,15 @@
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\bin\Debug\net5.0\Konsole .NET 5.exe
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\bin\Debug\net5.0\Konsole .NET 5.deps.json
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\bin\Debug\net5.0\Konsole .NET 5.runtimeconfig.json
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\bin\Debug\net5.0\Konsole .NET 5.runtimeconfig.dev.json
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\bin\Debug\net5.0\Konsole .NET 5.dll
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\bin\Debug\net5.0\Konsole .NET 5.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\Konsole .NET 5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\Konsole .NET 5.AssemblyInfoInputs.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\Konsole .NET 5.AssemblyInfo.cs
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\Konsole .NET 5.csproj.CoreCompileInputs.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\Konsole .NET 5.dll
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\refint\Konsole .NET 5.dll
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\Konsole .NET 5.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\Konsole .NET 5.genruntimeconfig.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET 5\obj\Debug\net5.0\ref\Konsole .NET 5.dll

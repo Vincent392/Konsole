@@ -1,0 +1,20 @@
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole .NET Framework 4.csproj.CoreCompileInputs.cache
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole .NET Framework 4.csproj.AssemblyReference.cache
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole.NET_Framework_4.Crash.resources
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole .NET Framework 4.csproj.GenerateResource.cache
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4.exe
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4.pdb
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\KonsoleNET4.exe
+E:\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\KonsoleNET4.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4.exe
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole .NET Framework 4.csproj.AssemblyReference.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole.NET_Framework_4.Crash.resources
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole .NET Framework 4.csproj.GenerateResource.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\Konsole .NET Framework 4.csproj.CoreCompileInputs.cache
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\KonsoleNET4.exe
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\KonsoleNET4.pdb
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4.exe.manifest
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\bin\Debug\KonsoleNET4.application
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\KonsoleNET4.exe.manifest
+Z:\run\media\vincent\GAMES\VS2019\Repos\Konsole .NET Framework 4\Konsole .NET Framework 4\obj\Debug\KonsoleNET4.application
